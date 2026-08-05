@@ -3,8 +3,10 @@
  
 </div>
 
+---
 ### Hi there, I'm Daniel 👋
---- ## 🚀 About Me - 🔭 I'm currently working on ... - 🌱 I'm currently learning ... - 💬 Ask me about ... - 📫 How to reach me: ... 
+
+Incoming Computer Science Honors student at Stony Brook University with a background in full-stack development, legacy systems migration, and practical AI applications Currently engineering an AI-driven Sustainable Landcare Hub for ReWild Long Island. I am focused on software engineering, secure computing, and applying AI to real-world infrastructure. Always open to connecting about software systems, cybersecurity, or math!
 
 ## 🛠️ Tech Stack
 
