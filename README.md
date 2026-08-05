@@ -1,9 +1,9 @@
 <div align="center">
 <img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="500"/>
-
-### Hi there, I'm Daniel 👋
  
 </div>
+
+### Hi there, I'm Daniel 👋
 ---
  
 ## 🚀 About Me
