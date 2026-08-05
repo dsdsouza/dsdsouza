@@ -1,5 +1,6 @@
 <div align="center">
 <img src="assets/rotating_daniel.gif" alt="DANIEL" width="500"/>
+
 ### Hi there, I'm Daniel 👋
  
 </div>
