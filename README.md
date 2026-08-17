@@ -79,4 +79,7 @@ Incoming Computer Science Honors student at Stony Brook University with a backgr
   <a href="https://daniel-dsouza-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
+   <a href="https://www.youtube.com/@Firewallnut" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
 </div>
