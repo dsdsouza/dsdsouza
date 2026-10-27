@@ -1,74 +1,14 @@
-<div align="center">
-<img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="600"/>
- 
-</div>
-
----
-### Hi there, I'm Daniel 👋
+## Hi there, I'm Daniel 👋
 
 Incoming Computer Science Honors student at Stony Brook University with a background in full-stack development, legacy systems migration, and practical AI applications. Currently engineering an AI-driven Sustainable Landcare Hub for ReWild Long Island. I am focused on software engineering, secure computing, and applying AI to real-world infrastructure. Always open to connecting about software systems, cybersecurity, or math!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming & Markup Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+**Programming & Markup Languages:** Python, JavaScript, TypeScript, Java, HTML/CSS, C#. Currently learning C++ and Rust!
 
-### ⚙️ Frameworks, Libraries & Runtimes
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+**Frameworks, Libraries & Runtimes:** Hugging Face (BGE-M3), Gemma, React, Node.JS, Next.JS, JWT, Tailwind CSS, NumPy.
 
-### 🗄️ Databases, Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### 🛠️ Tools, Security & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 🖥️ Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### 💡 Core Concepts & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Design-0E76A8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-4A154B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Compliance-3B5998?style=for-the-badge" />
-</p>
+**Databases, Cloud & DevOps:** Google Cloud Platform, Docker, PostgreSQL & pgvector, MySQL, Supabase, Cloudflare, Microsoft IIS, Vercel. 
 
 ## 🌐 Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
  
@@ -76,10 +16,16 @@ Incoming Computer Science Honors student at Stony Brook University with a backgr
   <a href="https://www.linkedin.com/in/danielsdsouza/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://daniel-dsouza-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+ 
+  <a href="https://www.danieldsouza.work/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
    <a href="https://www.youtube.com/@Firewallnut" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
+</div>
+
+ <div align="center">
+<img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="600"/>
+ 
 </div>
