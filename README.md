@@ -12,7 +12,7 @@ I'm an undergraduate at Stony Brook University and a software engineer specializ
 
 ## Hobbies
 
-When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar.
+When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar. Recently I've gotten into calisthenics/rockClimbing and just got down the front lever and one arm pull up.
 
 ## Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
  
