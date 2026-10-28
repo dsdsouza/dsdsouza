@@ -32,19 +32,19 @@ When I'm not eating, sleeping, or coding, you might find me drawing, playing bad
 ---
  <div align="center">
   
-<img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="600"/>
-</div>
----
-
 <div align="center">
+
   <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats.vercel.app/api?username=dsdsouza&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="Daniel's GitHub Stats"/>
+    <img src="https://github-readme-stats-two.vercel.app/api?username=dsdsouza&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Daniel's GitHub Stats"/>
   </a>
   <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsdsouza&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
+    <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=dsdsouza&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
   </a>
+
   <br><br>
+
   <a href="https://github.com/dsdsouza">
-    <img src="https://streak-stats.demolab.com?user=dsdsouza&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="97%" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=dsdsouza&theme=radical&hide_border=true" width="97%" alt="GitHub Streak"/>
   </a>
+
 </div>
