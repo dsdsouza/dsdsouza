@@ -12,8 +12,7 @@ I'm an undergraduate at Stony Brook University and a software engineer specializ
 
 ## Hobbies
 
-When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar. Recently I've gotten into calisthenics/rockClimbing and just got down the front lever and one arm pull up.
-When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar. Recently I've gotten into calisthenics and just got down the front lever and one arm pull up.
+When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or messing around on the guitar. Recently I've gotten into calisthenics and just got down the front lever and one arm pull up!
 
 ## Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
 
@@ -35,21 +34,4 @@ When I'm not eating, sleeping, or coding, you might find me drawing, playing bad
 
 <img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="600"/>
 </div>
----
 
-<div align="center">
-
-  <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats-two.vercel.app/api?username=dsdsouza&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Daniel's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=dsdsouza&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/dsdsouza">
-    <img src="https://streak-stats.demolab.com?user=dsdsouza&theme=radical&hide_border=true" width="97%" alt="GitHub Streak"/>
-  </a>
-
-</div>
