@@ -37,7 +37,19 @@ When I'm not eating, sleeping, or coding, you might find me drawing, playing bad
 </div>
 ---
 
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=dsdsouza&theme=radical" width="48%" />
-  <img src="https://github-readme-metrics.vercel.app/api/languages?username=dsdsouza&theme=radical" width="48%" />
-</p>
+<div align="center">
+
+  <a href="https://github.com/dsdsouza">
+    <img src="https://github-readme-stats-two.vercel.app/api?username=dsdsouza&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Daniel's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/dsdsouza">
+    <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=dsdsouza&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/dsdsouza">
+    <img src="https://streak-stats.demolab.com?user=dsdsouza&theme=radical&hide_border=true" width="97%" alt="GitHub Streak"/>
+  </a>
+
+</div>
