@@ -1,8 +1,8 @@
-## Hi there, I'm Daniel 👋
+## Hi, Daniel here
 
-Incoming Computer Science Honors student at Stony Brook University with a background in full-stack development, legacy systems migration, and practical AI applications. Currently engineering an AI-driven Sustainable Landcare Hub for ReWild Long Island. I am focused on software engineering, secure computing, and applying AI to real-world infrastructure. Always open to connecting about software systems, cybersecurity, or math!
+I'm an undergraduate at Stony Brook University and a software engineer specializing in full-stack development, cloud infrastructure, and practical AI systems. I have architected multilingual conversational AI tools using containerized Gemma models and RAG via pgvector, led development teams to build volunteer management platforms on Google Cloud Platform, and refactored legacy enterprise software to meet Department of Defense cybersecurity mandates for contracting. I work primarily with TypeScript, JavaScript, Python, and Java. I'm always open to talking about math (or other cool things)!
 
-## 💻Tech Stack
+## Tech Stack
 
 **Programming & Markup Languages:** Python, JavaScript, TypeScript, Java, HTML/CSS, C#. Currently learning C++ and Rust!
 
@@ -10,7 +10,11 @@ Incoming Computer Science Honors student at Stony Brook University with a backgr
 
 **Databases, Cloud & DevOps:** Google Cloud Platform, Docker, PostgreSQL & pgvector, MySQL, Supabase, Cloudflare, Microsoft IIS, Vercel. 
 
-## 🌐 Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
+## Hobbies
+
+When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar.
+
+## Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
  
 <div align="center">
   <a href="https://www.linkedin.com/in/danielsdsouza/" target="_blank" rel="noopener noreferrer">
