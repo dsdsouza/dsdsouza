@@ -12,15 +12,16 @@ I'm an undergraduate at Stony Brook University and a software engineer specializ
 
 ## Hobbies
 
+When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar. Recently I've gotten into calisthenics/rockClimbing and just got down the front lever and one arm pull up.
 When I'm not eating, sleeping, or coding, you might find me drawing, playing badminton, or playing the guitar. Recently I've gotten into calisthenics and just got down the front lever and one arm pull up.
 
 ## Socials <span><i>(Ctrl/Cmd + Click to open in a new tab)</i></span>
- 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/danielsdsouza/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- 
+
   <a href="https://www.danieldsouza.work/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
@@ -31,20 +32,12 @@ When I'm not eating, sleeping, or coding, you might find me drawing, playing bad
 
 ---
  <div align="center">
-  
-<div align="center">
 
-  <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats-two.vercel.app/api?username=dsdsouza&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Daniel's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/dsdsouza">
-    <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=dsdsouza&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/dsdsouza">
-    <img src="https://streak-stats.demolab.com?user=dsdsouza&theme=radical&hide_border=true" width="97%" alt="GitHub Streak"/>
-  </a>
-
+<img src="assets/rotating_daniel_ascii.gif" alt="DANIEL" width="600"/>
 </div>
+---
+
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api?username=dsdsouza&theme=radical" width="48%" />
+  <img src="https://github-readme-metrics.vercel.app/api/languages?username=dsdsouza&theme=radical" width="48%" />
+</p>
