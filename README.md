@@ -6,7 +6,7 @@ I'm an undergraduate at Stony Brook University and a software engineer specializ
 
 **Programming & Markup Languages:** Python, JavaScript, TypeScript, Java, HTML/CSS, C#. Currently learning C++ and Rust!
 
-**Frameworks, Libraries & Runtimes:** Hugging Face (BGE-M3), Gemma, React, Node.JS, Next.JS, JWT, Tailwind CSS, NumPy.
+**Frameworks, Libraries & Other Stuff:** Hugging Face (BGE-M3), Gemma, React, Node.JS, Next.JS, JWT, Tailwind CSS, NumPy.
 
 **Databases, Cloud & DevOps:** Google Cloud Platform, Docker, PostgreSQL & pgvector, MySQL, Supabase, Cloudflare, Microsoft IIS, Vercel. 
 
